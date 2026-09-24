@@ -1,8 +1,3 @@
-Your code is using the **array reversal technique**, but the implementation you pasted is incomplete—it needs the three `reverse()` calls after defining the helper function.
-
-Here is the Markdown entry in the same format as your previous problems:
-
-````md
 # 189. Rotate Array
 
 [**LeetCode Problem**](https://leetcode.com/problems/rotate-array/)
